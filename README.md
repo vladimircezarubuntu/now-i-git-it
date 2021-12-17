@@ -5,3 +5,4 @@ from [this site](https://holidappy.com/quotes/100-Funny-Sayings-Quotes-and-Phras
 - I could tell that my parents hated me. My bath toys were a toaster an a radio.
 - A clear conscience is usually the sign of a bad memory.
 - It is not my faut that I never learned to accept responsibility!
+- I’m not superstitious, but I am a little stitious.
