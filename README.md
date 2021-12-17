@@ -6,5 +6,5 @@ from [this site](https://holidappy.com/quotes/100-Funny-Sayings-Quotes-and-Phras
 - A clear conscience is usually the sign of a bad memory.
 - It is not my faut that I never learned to accept responsibility!
 - I’m not superstitious, but I am a little stitious.
-- This sentence is a lie
-- Those who throw dirt only lose ground
+- This sentence is a lie.
+- Those who throw dirt only lose ground.
